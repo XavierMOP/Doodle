@@ -13,7 +13,7 @@ print(sys.version)
 
 
 turtle.pensize(4)
-turtle.pencolor('red')
+turtle.pencolor('grey')
 turtle.forward(100)
 turtle.right(90)
 turtle.forward(100)
