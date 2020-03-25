@@ -3,7 +3,7 @@
 Jupyter Notebooks have two different keyboard input modes:
 
 1. **Command mode** - binds the keyboard to notebook level actions. Indicated by a grey cell border with a blue left margin.
-   
+
 2. **Edit mode** - when you’re typing in a cell. Indicated by a green cell border
 
 ## Command Mode
@@ -21,6 +21,8 @@ Jupyter Notebooks have two different keyboard input modes:
 - `0` , `0` restart kernel (with dialog)
 - `Y` change cell to `code` mode
 - `M` change cell to `markdown` mode
+- `Z` undo delete cells
+- `Esc` change to command mode
 
 ## Edit Mode
 - `cmd` + `click` for multi-cursor editing
