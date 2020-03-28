@@ -1,25 +1,31 @@
 # Mis
 
-- ## random
-- ## sys
+- random
+- sys
+- datetime
 
 
 # Graphic UI
 
-- ## PyQt5
-- ## simpleguitk (simplegui in CodeSkulptor)
-hahaha
+- PyQt5
+- simpleguitk (simplegui in CodeSkulptor)
+
 
 
 # Draw
 
-- ## turtle
+- turtle
 
 
 # Data Visualisation
 
-- ## Plotly
-- ## Cufflinks
-- ## Matplotlib + Seaborn + Pandas
-- ## Bokeh
-- ## pyecharts
+- Plotly
+- Cufflinks
+- Matplotlib + Seaborn + Pandas
+- Bokeh
+- pyecharts
+
+
+# EXE
+
+- pyinstaller
