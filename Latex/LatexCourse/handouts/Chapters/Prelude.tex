@@ -1,0 +1,49 @@
+\chapter{Prelude}
+\label{chap:prelude}
+\section{What is \LaTeX\ and how does it work?}
+\LaTeX\ is a typesetting program. It generates a professionally looking and easily printable document (e.g.~a {\tt pdf} file) from user provided input files. The main input is a {\tt tex} file, which contains the source code --- raw text interspersed with commands. The commands basically tell \LaTeX\ what to do with the text. For example, you can make text \textbf{bold}, \emph{italic}, or \underline{underlined} by first typing {\textbackslash}textbf\{\}, {\textbackslash}emph\{\} or {\textbackslash}underlined\{\}, respectively, and then placing the text inside the curly brackets.
+
+The typesetting rules applied by \LaTeX\ are targeted mainly at aesthetics, and these rules have been honed by professional typesetters since the time of Caxton!
+
+\section{Why bother with it?}
+\LaTeX\ is not the ``magic bullet'' of typesetting --- it has pros and cons --- but there are good reasons why \LaTeX\ is widely used in scientific publishing and academia.  
+\subsection{Advantages}
+\begin{itemize}
+\item It's free of charge.
+\item We can use any text editor to view and modify the source code.
+\item More time is spent on creating content and less time on cosmetic tweaking.
+\item Basic typesetting is done automatically. \LaTeX\ uses consistent rules throughout a document, making it look professional.
+\item Precise changes can be introduced globally with very little effort.
+\item Mathematical equations, like $E=mc^2$ or $\imath\hbar\frac{\partial}{\partial t}\Phi (x, t) = \hat{H}\Phi (x, t)$ can be produced almost as fast as typing (if you know the commands!).
+\end{itemize}
+
+\subsection{Disadvantages}
+\begin{itemize}
+\item Steep learning curve.
+\item You don't see the output as you go.
+\item Sometimes \LaTeX\ does not work quite the way you want it to, and learning how to influence it can be a challenge.
+\item Errors in the source code can be surprisingly difficult to locate.
+\end{itemize}
+
+\subsection{\LaTeX\ versus MS Word/Office}
+\begin{itemize}
+\item Large technical documents are often much easier to handle in \LaTeX. 
+\item In \LaTeX, technical features such as tables, equations and figures are integrated much more smoothly.
+\item It is generally quicker to write and debug the \LaTeX\ source than it is to typeset an entire thesis manually and consistently in Word/Office.
+\end{itemize}
+
+
+%Although intended to save work the principle of `conservation of work' means that you simply transform problems associated with WYSIWYG approaches to problems associated with WYSIWYM approaches!
+
+\section{\LaTeX\ distributions and editors}
+\LaTeX\ comes in multiple flavours/distributions, with the most common ones being:
+\begin{itemize}
+\item TeXLive for Windows and Unix/Linux.
+\item MacTeX for Mac OS.
+\end{itemize}
+You also need to choose an editor (sometimes referred to as ``the front end'') for writing the source code.
+I will be using gedit, a basic text editor, during this workshop. Several more advanced front ends are
+available on MCS Linux. All of them provide an editing environment, but use calls to the system's
+TeXLive distribution.
+
+

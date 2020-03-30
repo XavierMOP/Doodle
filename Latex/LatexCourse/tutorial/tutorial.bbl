@@ -1,0 +1,48 @@
+\begin{thebibliography}{1}
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+
+\bibitem{Gazit2002}
+E.~Gazit, \enquote{{A possible role for pi-stacking in the self-assembly of
+  amyloid fibrils.}}, \emph{The FASEB journal : official publication of the
+  Federation of American Societies for Experimental Biology}, 16(1); 77--83,
+  2002.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/11772939}
+
+\bibitem{Channon2009}
+K.~J. Channon, G.~L. Devlin and C.~E. MacPhee, \enquote{{Efficient energy
+  transfer within self-assembling peptide fibers: a route to light-harvesting
+  nanomaterials.}}, \emph{Journal of the American Chemical Society}, 131(35);
+  12520--1, 2009.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/19678637}
+
+\bibitem{Horcas2007}
+I.~Horcas, R.~Fern\'{a}ndez, J.~M. G\'{o}mez-Rodr\'{\i}guez, J.~Colchero,
+  J.~G\'{o}mez-Herrero and a.~M. Baro, \enquote{{WSXM: a software for scanning
+  probe microscopy and a tool for nanotechnology.}}, \emph{The Review of
+  scientific instruments}, 78(1); 013705, 2007.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/17503926}
+
+\bibitem{Jones2003}
+S.~Jones, J.~Manning, N.~M. Kad and S.~E. Radford, \enquote{{Amyloid-forming
+  Peptides from $\beta$2-Microglobulin—Insights into the Mechanism of Fibril
+  Formation in Vitro}}, \emph{Journal of Molecular Biology}, 325(2); 249--257,
+  2003.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0022283602012275}
+
+\bibitem{Parsons2010}
+J.~B. Parsons, S.~Frank, D.~Bhella, M.~Liang, M.~B. Prentice, D.~P. Mulvihill
+  and M.~J. Warren, \enquote{{Synthesis of empty bacterial microcompartments,
+  directed organelle protein incorporation, and evidence of filament-associated
+  organelle movement.}}, \emph{Molecular cell}, 38(2); 305--15, 2010.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/20417607}
+
+\bibitem{Stott2009}
+K.~M. Stott, A.~M. Yusof, R.~N. Perham and D.~D. Jones, \enquote{{A surface
+  loop directs conformational switching of a lipoyl domain between a folded and
+  a novel misfolded structure.}}, \emph{Structure (London, England : 1993)},
+  17(8); 1117--27, 2009.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/19679089}
+
+\end{thebibliography}
