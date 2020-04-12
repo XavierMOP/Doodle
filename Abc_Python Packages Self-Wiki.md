@@ -3,13 +3,13 @@
 - random
 - sys
 - datetime
+- request
 
 
 # Graphic UI
 
 - PyQt5
 - simpleguitk (simplegui in CodeSkulptor)
-
 
 
 # Draw
@@ -29,6 +29,7 @@
 # EXE
 
 - pyinstaller
+
 
 # Colorred Output
 
