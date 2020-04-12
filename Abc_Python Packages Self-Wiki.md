@@ -23,9 +23,13 @@
 - Cufflinks
 - Matplotlib + Seaborn + Pandas
 - Bokeh
-- pyecharts
+- pyecharts*
 
 
 # EXE
 
 - pyinstaller
+
+# Colorred Output
+
+- coloroma
