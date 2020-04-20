@@ -31,7 +31,7 @@
 # EXE
 
 - pyinstaller
-cmd: pyinstall -i xxx.ico -w -D main.py
+cmd: pyinstaller -i xxx.ico -w -F main.py
 i - change icon
 w - no cmd window
 D/F - folder/single exe
