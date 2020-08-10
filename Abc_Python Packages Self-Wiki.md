@@ -1,3 +1,5 @@
+# `Ctrl` + `left/right`: move between words
+
 # Mis
 
 - random
@@ -31,12 +33,18 @@
 # EXE
 
 - pyinstaller
-cmd: pyinstaller -i xxx.ico -w -F main.py
-i - change icon
-w - no cmd window
-D/F - folder/single exe
-use from...import... !!!
 
+cmd: ```pyinstaller -i xxx.ico -w -F xxx.py```
+
+i - change icon
+
+xxx.ico - icon name
+
+w - no cmd window
+
+D/F - folder/single exe
+
+use from...import... !!! (to avoid import the whole package)
 
 
 # Colorred Output
