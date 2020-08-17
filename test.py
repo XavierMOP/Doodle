@@ -47,3 +47,4 @@ output_notebook()
 show(row(plot_plain, plot_color))
 
 # %%
+print('test')
